@@ -17,8 +17,13 @@ Telkens wanneer een objective voltooid wordt, verschijnt er een notificatie bove
 <img width="1920" height="1080" alt="Questlog-Visual-Sheet" src="https://github.com/user-attachments/assets/a2226e04-a457-4e7c-847e-94af66025d5e" />
 
 ## Code / Blueprints
+### Add New Quest
 <img width="1369" height="571" alt="AddNewQuest" src="https://github.com/user-attachments/assets/4ddcb27b-6398-41d8-bda5-c41f9780935d" />
+
+### Data Table Row
 <img width="1432" height="901" alt="DataTableRow" src="https://github.com/user-attachments/assets/98bb6183-53ba-4f74-b442-ab1bef097a06" />
+
+### Quest Giver
 <img width="1428" height="437" alt="QuestGiver" src="https://github.com/user-attachments/assets/97a1f3f3-e211-4b45-838c-38b6bc90e8a9" />
 
 
