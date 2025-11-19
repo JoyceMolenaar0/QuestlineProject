@@ -1,7 +1,6 @@
 # QuestlineProject
 ## 🎮 Demo-uitleg – Quest System
 
-### In deze demo laat ik mijn Quest System zien.
 ### De speler kan naar een NPC lopen en met R interacteren.
 ### Er opent een Quest-venster waarin je de quest kunt accepteren of weigeren.
 ### Wanneer de speler de quest accepteert, wordt deze toegevoegd aan de Quest Log, die je kunt openen met de Tab-toets.
